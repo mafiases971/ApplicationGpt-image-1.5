@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.tsx",
   "engines": {
-  "node": "18.x"
+  "node": "24.x"
 },
   "dependencies": {
     "react": "^19.0.0",
